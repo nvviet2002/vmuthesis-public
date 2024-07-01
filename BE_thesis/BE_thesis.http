@@ -1,0 +1,6 @@
+@BE_thesis_HostAddress = http://localhost:5038
+
+GET {{BE_thesis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
